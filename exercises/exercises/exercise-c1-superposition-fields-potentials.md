@@ -12,9 +12,13 @@ header-includes:
 # Exercise C1 — Superposition, Fields, and Potentials
 
 **Companion to:** Jackson §§1.1–1.7, 2.1–2.6
+
 **Estimated effort:** 3–5 hours, splittable into parts
+
 **Prerequisites:** none beyond Jackson Ch. 1. Parts (f) and (h) use `np.gradient`.
+
 **Deliverable:** one Python module plus a short notes file answering the questions in *italics*.
+
 
 ---
 
